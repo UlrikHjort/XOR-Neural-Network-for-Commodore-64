@@ -1,5 +1,5 @@
 /***************************************************************************
-;        Commodore 64 XOR Neural Network for Commodore 64
+;                Commodore 64 XOR Neural Network
 ;
 ;           Copyright (C) 2026 By Ulrik Hørlyk Hjort
 ;
