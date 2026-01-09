@@ -152,3 +152,6 @@ This demonstrates that:
 - The C64 (from 1982) can perform machine learning
 - Careful numerical design is crucial for resource-constrained systems
 
+---
+## Requirements:
+cc65 compiler and c1541 disk image maintenance program.
